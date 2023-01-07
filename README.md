@@ -4,7 +4,7 @@
 A month-long project you build on a team of 2-3 with other learning Salesforce developers. Small teams will work together to complete development assignments. A weekly meeting with experienced developers to go over questions and review code. Get actual hands-on experience by working on projects, in a team with requirements.
 
 ## Overview
-Create an integration to retrieve Star Wars information from SWAPI and store that information into standard Salesforce objects.
+Create an integration to retrieve Star Wars information from [SWAPI](https://swapi.dev/) and store that information into standard Salesforce objects.
 Practice Skills
 - Apex Fundamentals 
 - REST Integrations
